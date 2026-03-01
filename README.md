@@ -11,7 +11,7 @@ Ich bin ein leidenschaftlicher IT-Security-Spezialist mit praktischer Erfahrung 
 - 🔐 **Cyber Security Expert** (MindRefined GmbH – Abschluss 2026)
 - 📜 **CompTIA Security+, Network+, Linux+, A+** – alle im ersten Versuch bestanden
 - 📜 **ISO/IEC 27001:2022 Lead Auditor** (DNV, 2024)
-- 💼 Berufshintergrund: ISMS Junior Consultant, Senior Consultant IT-Security & Risk
+- 💼 Berufshintergrund: ISMS Junior Consultant, Senior Consultant für Prozessoptimierung
 - 🏠 Homelab-Enthusiast: Red/Blue/Purple Team Simulationen, ELK Stack SIEM, SOC-Labs
 - 🎯 Aktuell in Vorbereitung auf: **CompTIA PenTest+** (2026)
 - 🌍 Deutsch (Muttersprache) · Englisch (C1 / IELTS Band 7)
